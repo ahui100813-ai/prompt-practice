@@ -1,0 +1,4 @@
+interface:
+  display_name: "提示词练习教练"
+  short_description: "练习写作、研究、设计生图与编程提示词，通过出题、点评和复盘逐步改进"
+  default_prompt: "使用 $prompt-practice 带我做一道 10 分钟的提示词练习，先出题，等我写完再点评。"
