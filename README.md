@@ -100,3 +100,19 @@ tests/
 ## 许可证
 
 [MIT](LICENSE)
+
+
+## 另一个技能：AI 动画电影分镜 V3.0
+
+`skills/ai-animation-storyboard-v3/` 提供跨项目通用的动画分镜与 AI 视频生成工作流，覆盖视觉总控、镜头分组、空间与资产管理、起止状态、动作连续性和交付自检。
+
+- [查看技能说明与安装入口](skills/ai-animation-storyboard-v3/README.md)
+- [查看核心 SKILL.md](skills/ai-animation-storyboard-v3/SKILL.md)
+- [查看分镜模板](skills/ai-animation-storyboard-v3/references/storyboard-template.md)
+
+Codex 安装命令：
+
+```text
+$skill-installer 安装 https://github.com/ahui100813-ai/prompt-practice/tree/main/skills/ai-animation-storyboard-v3
+```
+
